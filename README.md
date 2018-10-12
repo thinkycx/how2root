@@ -6,6 +6,8 @@ This repo is a collection of public root slides & WPs... and aims to help securi
 
 ### Slides
 
+- [陈良@内存喷射在安卓Root利用.pdf](./slides/陈良@内存喷射在安卓Root利用.pdf)
+- [赵建强-陈耿佳-潘剑锋@Android-Root利用技术漫谈-绕过PXN.ppt](./slides/赵建强-陈耿佳-潘剑锋@Android-Root利用技术漫谈-绕过PXN.ppt)
 
 ### Support
 

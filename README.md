@@ -1,8 +1,8 @@
 ### how2root
 
-- [Source Code](https://github.com/thinkycx/how2root/edit/master/README.md)
+- [Source Code]
 
-This repo is a collection of public root slides & WPs... and aims to help security researchers learn how to root you Android/Linux devices.
+[How2root](https://github.com/thinkycx/how2root) is a collection of public root slides & WPs... and aims to help security researchers learn how to root you Android/Linux devices.
 
 ### Slides
 
@@ -14,7 +14,7 @@ This repo is a collection of public root slides & WPs... and aims to help securi
 ### Note
 Slide filename's format looks like `NAME@AUTHOR.pdf`.  
 
-**Space and Chinese colon（：）** should better not presents  in the filename as to be better shown in the README.md and the jekyll bug.You can replace them with `-`。
+**Space and Chinese colon（：）** should better not present  in the filename as to be better shown in the README.md and the jekyll bug.You can replace them with `-`。
 
 ### Support
 

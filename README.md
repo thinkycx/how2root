@@ -6,10 +6,10 @@ This repo is a collection of public root slides & WPs... and aims to help securi
 
 ### Slides
 
-- [陈良@内存喷射在安卓Root利用.pdf](./slides/陈良@内存喷射在安卓Root利用.pdf)
-- [Android Root利用技术漫谈-绕过PXN@赵建强-陈耿佳-潘剑锋.ppt](./slides/Android Root利用技术漫谈-绕过PXN@赵建强-陈耿佳-潘剑锋.ppt)
-- [方家弘@《Android安全加固-演进和对抗》.pdf](./slides/方家弘@《Android安全加固-演进和对抗》.pdf)
-- [方家弘-聂森@窥探Android内核-Crash&Treasure.pdf](./slides/方家弘-聂森@窥探Android内核-Crash&Treasure.pdf)
+- [内存喷射在安卓Root利用@陈良.pdf](./slides/内存喷射在安卓Root利用@陈良.pdf)
+- [Android-Root利用技术漫谈-绕过PXN@赵建强-陈耿佳-潘剑锋.ppt](./slides/Android-Root利用技术漫谈-绕过PXN@赵建强-陈耿佳-潘剑锋.ppt)
+- [Android安全加固-演进和对抗@方家弘.pdf](./slides/Android安全加固-演进和对抗@方家弘.pdf)
+- [窥探Android内核-Crash&Treasure@方家弘-聂森.pdf](./slides/窥探Android内核-Crash&Treasure@方家弘-聂森.pdf)
 
 ### Support
 

@@ -11,6 +11,11 @@ This repo is a collection of public root slides & WPs... and aims to help securi
 - [Android安全加固-演进和对抗@方家弘.pdf](./slides/Android安全加固-演进和对抗@方家弘.pdf)
 - [窥探Android内核-Crash&Treasure@方家弘-聂森.pdf](./slides/窥探Android内核-Crash&Treasure@方家弘-聂森.pdf)
 
+### Note
+Slide filename's format looks like `NAME@AUTHOR.pdf`.  
+
+**Space and Chinese colon（：）** should better not presents  in the filename as to be better shown in the README.md and the jekyll bug.You can replace them with `-`。
+
 ### Support
 
 - Github Pages

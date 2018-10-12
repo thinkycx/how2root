@@ -1,7 +1,5 @@
 ### how2root
 
-- [Source Code]
-
 [How2root](https://github.com/thinkycx/how2root) is a collection of public root slides & WPs... and aims to help security researchers learn how to root you Android/Linux devices.
 
 ### Slides
